@@ -6,8 +6,12 @@ html{
 
 h1{
     font-size: 60px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 p,a{
     font-size: 45px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
