@@ -1,7 +1,10 @@
-html{
+body{
     font-family: "Times New Roman", Times, serif;
     max-width: 100%;
     margin: 40px;
+    text-align: center;
+    background-color: #e7e6d3;
+    
 }
 
 h1{
@@ -10,8 +13,23 @@ h1{
     margin-bottom: 15px;
 }
 
-p,a{
-    font-size: 45px;
+p, a{
+    font-size: 29px;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+
+.botao{
+    font-size: 45px;
+    background-color: #182752;
+    color: #e7e6d3;
+    padding: 8px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+    line-height: 72px;
+}
+
+.botao:hover{
+  background-color: #000000;
 }
